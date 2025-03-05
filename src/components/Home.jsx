@@ -33,9 +33,9 @@ const Home = () => {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo aut
-              velit eligendi sit facilis quae ducimus corrupti laborum, repellat
-              assumenda!
+            Full-Stack Developer | React | Node.js | MongoDB <br />
+            Innovative Web Solutions with MERN Stack <br />
+            Turning Ideas into Scalable Digital Products
             </p>
             <br />
             {/* Social Media icon */}
