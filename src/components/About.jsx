@@ -54,7 +54,7 @@ const About = () => {
           Professional Exprience
         </h1>
         <span>
-          Frontend Developer- [AppSquadz Pvt Ltd] -[jan-2024 to jun-204]
+          Frontend Developer- AppSquadz Pvt Ltd : jan-2024 to jun-2024
         </span>
         <br />
         <br />
@@ -62,7 +62,7 @@ const About = () => {
           Achivements and awards
         </h1>
         <span>
-          Best Team Lead -NIT RAIPUR- 2023 Best Cricket Player -Distict- 2023
+          Best Team Lead -NIT RAIPUR- 2023 Best Cricket-Player-Distict: 2023
         </span>
         <br />
         <br />
